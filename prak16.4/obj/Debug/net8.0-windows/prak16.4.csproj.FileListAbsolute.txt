@@ -1,0 +1,16 @@
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\bin\Debug\net8.0-windows\prak16.4.exe
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\bin\Debug\net8.0-windows\prak16.4.deps.json
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\bin\Debug\net8.0-windows\prak16.4.runtimeconfig.json
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\bin\Debug\net8.0-windows\prak16.4.dll
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\bin\Debug\net8.0-windows\prak16.4.pdb
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\obj\Debug\net8.0-windows\prak16._4.Form1.resources
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\obj\Debug\net8.0-windows\prak16.4.csproj.GenerateResource.cache
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\obj\Debug\net8.0-windows\prak16.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\obj\Debug\net8.0-windows\prak16.4.AssemblyInfoInputs.cache
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\obj\Debug\net8.0-windows\prak16.4.AssemblyInfo.cs
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\obj\Debug\net8.0-windows\prak16.4.csproj.CoreCompileInputs.cache
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\obj\Debug\net8.0-windows\prak16.4.dll
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\obj\Debug\net8.0-windows\refint\prak16.4.dll
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\obj\Debug\net8.0-windows\prak16.4.pdb
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\obj\Debug\net8.0-windows\prak16.4.genruntimeconfig.cache
+C:\Users\Bikmacs\Documents\prak16.4\prak16.4\obj\Debug\net8.0-windows\ref\prak16.4.dll
